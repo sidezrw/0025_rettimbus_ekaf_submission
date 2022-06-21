@@ -1,0 +1,8 @@
+filename: "reports/matrix_multiplication_8192x100_x_100x10_0-wp_8192_100_10_8192_2_40_20_70-latency-int64-01-all_cipher-bfv-128_bits-0-report.csv.csv"
+software: "SEAL"
+software_version: "v3.6.6"
+cpu_threads: 36
+accelerator: ~
+accelerator_tdp: ~
+accelerator_quantity: 0
+notes: "notes/matrix_multiplication.txt"
