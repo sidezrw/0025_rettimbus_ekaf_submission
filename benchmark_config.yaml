@@ -61,7 +61,7 @@ benchmark:
 #   Matrix Multiplication (10x9) x (9x8)
 # Descriptor:
 #   wp_8192_100_10_8192_2_40_20_70 | latency | int64 | 01 | all_cipher | bfv | 128_bits | 0
-  - ID: 1
+  - ID: 0
     dataset: ~
     default_min_test_time: 0
     default_sample_sizes:
